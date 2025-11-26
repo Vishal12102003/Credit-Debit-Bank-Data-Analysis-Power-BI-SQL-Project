@@ -6,6 +6,10 @@ This is an end-to-end data analysis project that combines SQL and Power BI to un
 ## 🔗 Live Resources
 
 - 🔗 **SQL GitHub Repository**: [Bank_Credit_and_Debit_Analisis-SQL](https://github.com/Vishal12102003/Bank_Credit_and_Debit_Analisis-SQL)
+---
+
+Open the live dashboard here:  
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODk1ODFmNmMtYjBlZi00Zjg1LTk1MDMtYjAxM2JjODNiYzY4IiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
 
 ---
 
